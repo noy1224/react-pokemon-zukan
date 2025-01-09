@@ -1,5 +1,3 @@
-// src/api/pokemon.type.ts
-
 import { Name, NamedAPIResource } from './common.type';
 
 export interface PokemonSprites {
